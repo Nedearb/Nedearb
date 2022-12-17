@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nedearb
 - 👀 I’m interested in Lua and reverse engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Exploiting 
+- 💞️ I’m looking to collaborate on any projects  
 - 📫 How to reach me Nedearb#3589
 
 <!---
